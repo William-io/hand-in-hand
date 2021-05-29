@@ -1,0 +1,16 @@
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\bin\Debug\net5.0\Hand.exe
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\bin\Debug\net5.0\Hand.deps.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\bin\Debug\net5.0\Hand.runtimeconfig.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\bin\Debug\net5.0\Hand.runtimeconfig.dev.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\bin\Debug\net5.0\Hand.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\bin\Debug\net5.0\ref\Hand.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\bin\Debug\net5.0\Hand.pdb
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\Hand.csproj.AssemblyReference.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\Hand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\Hand.AssemblyInfoInputs.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\Hand.AssemblyInfo.cs
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\Hand.csproj.CoreCompileInputs.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\Hand.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\ref\Hand.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\Hand.pdb
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\Hand-in-hand\Hand\obj\Debug\net5.0\Hand.genruntimeconfig.cache
