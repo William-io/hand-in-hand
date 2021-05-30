@@ -1,4 +1,5 @@
 ﻿using System;
+using ContentContext;
 
 namespace Hand
 {
@@ -6,7 +7,13 @@ namespace Hand
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Clear();
+            var course = new CourseBook();
+            foreach(var item in course.Modules)
+            {
+                
+            }
+            System.Console.WriteLine("Lista inicial");
         }
     }
 }
