@@ -1,7 +1,8 @@
-namespace ContentContext
+namespace Hand.ContentContext
 {
-    class Author : Content
+    public class Author : Content
     {
+        public int CoursesBooks { get; set; }   
         
     }
 }

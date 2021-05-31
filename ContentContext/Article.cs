@@ -1,4 +1,4 @@
-namespace ContentContext
+namespace Hand.ContentContext
 {
     class Article : Content 
     {

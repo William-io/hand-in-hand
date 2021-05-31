@@ -1,5 +1,5 @@
 ﻿using System;
-using ContentContext;
+using Hand.ContentContext;
 
 namespace Hand
 {
@@ -9,11 +9,17 @@ namespace Hand
         {
             Console.Clear();
             var course = new CourseBook();
+            course.Level = ContentContext.Enums.EContentLevel.Beginner;
+            
             foreach(var item in course.Modules)
             {
                 
             }
-            System.Console.WriteLine("Lista inicial");
+            if (course.Level == ContentContext.Enums.EContentLevel.Beginner)
+            {
+                System.Console.WriteLine($"Que ótimo você inicio os Estudos");
+            }
+            Console.ReadLine();
         }
     }
 }
