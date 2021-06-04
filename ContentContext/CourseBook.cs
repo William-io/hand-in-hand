@@ -5,7 +5,8 @@ namespace Hand.ContentContext
 {
     public class CourseBook : Content //Nivel 
     {
-        public CourseBook()
+        public CourseBook(string title, string url)
+        : base(title, url)
         {
             Modules = new List<Module>();
         }

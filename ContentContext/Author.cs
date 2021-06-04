@@ -4,7 +4,8 @@ namespace Hand.ContentContext
 {
     public class Author : Content
     {
-        public Author()
+        public Author(string title, string url)
+        : base(title, url)
         {
             Items = new List<AuthorItem>();
         }
