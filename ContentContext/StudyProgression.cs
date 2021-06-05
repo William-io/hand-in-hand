@@ -2,7 +2,7 @@ using Hand.ContentContext.Enums;
 
 namespace Hand.ContentContext
 {
-    public class StudyProgression //Progressão 
+    public class StudyProgression : ClassBase//Progressão 
     {
         public int Ordem { get; set; }
         public string Title { get; set; }

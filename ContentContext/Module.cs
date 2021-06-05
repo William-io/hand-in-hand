@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace Hand.ContentContext
 {
-   public class Module
+   public class Module : ClassBase
     {
         public Module()
         {

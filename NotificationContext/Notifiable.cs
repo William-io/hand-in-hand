@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Hand.NotificationContext
 {
@@ -8,15 +9,17 @@ namespace Hand.NotificationContext
         public List<Notification> Notifications { get; set; }
 
         //Metodos 
-        public void Add(Notification notification)
+        public void AddNotification(Notification notification)
         {
             Notifications.Add(notification);
         }
 
-        public void AddRange(IEnumerable<Notification> notification)
+        public void AddNotifications(IEnumerable<Notification> notification)
         {
             Notifications.AddRange(notification);
         }
+
+        public bool IsInvalid => Notifications.Any(); //Se tiver erro o objeto vai está errado
 
     }
     
