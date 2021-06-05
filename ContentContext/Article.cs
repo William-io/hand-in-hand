@@ -1,7 +1,10 @@
+using System.Collections.Generic;
+
 namespace Hand.ContentContext
 {
-    class Article : Content
+    public class Article : Content
     {
+        
         public Article(string title, string url)
         : base(title, url) { }
     }
