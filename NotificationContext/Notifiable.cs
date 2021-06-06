@@ -8,6 +8,11 @@ namespace Hand.NotificationContext
         //Onde a classe que outras classes vão herdar dela. 
         public List<Notification> Notifications { get; set; }
 
+        public Notifiable()
+        {
+            Notifications = new List<Notification>();
+        }
+
         //Metodos 
         public void AddNotification(Notification notification)
         {

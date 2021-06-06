@@ -1,7 +1,7 @@
 using System;
 using Hand.NotificationContext;
 
-namespace Hand.ContentContext
+namespace Hand.SharedContext
 {
     public abstract class ClassBase : Notifiable
     {

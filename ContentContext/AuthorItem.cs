@@ -1,4 +1,5 @@
 using Hand.NotificationContext;
+using Hand.SharedContext;
 
 namespace Hand.ContentContext
 {

@@ -1,4 +1,5 @@
 using Hand.ContentContext.Enums;
+using Hand.SharedContext;
 
 namespace Hand.ContentContext
 {

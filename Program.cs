@@ -35,15 +35,21 @@ namespace Hand
                     Console.WriteLine($"{item.Order} - {item.Title}");
                     Console.WriteLine(item.courseBook?.Title);
                     Console.WriteLine(item.courseBook?.Level);
+
+                    foreach (var notification in item.Notifications)
+                    {
+                        Console.WriteLine($"{notification.Property} - {notification.Message}");
+                    }
                 }
             }
+            
 
-            foreach (var article in articles)
-            {
-                System.Console.WriteLine(article.Id);
-                System.Console.WriteLine(article.Title);
-                System.Console.WriteLine(article.Url);
-            }
+            // foreach (var article in articles)
+            // {
+            //     System.Console.WriteLine(article.Id);
+            //     System.Console.WriteLine(article.Title);
+            //     System.Console.WriteLine(article.Url);
+            // }
             
         }
     }
